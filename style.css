@@ -1,0 +1,44 @@
+#row1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#row2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#row3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#row4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#row5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card {
+    background-color: #000000;
+    color: #FFFFFF;
+    padding: 10px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    margin:10px
+}
+.title{
+    text-align: center;
+}
+.subHeading{
+    text-align: center;
+}
+#id{
+    text-align: center;
+    align-items: center;
+}
