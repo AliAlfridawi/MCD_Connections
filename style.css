@@ -23,6 +23,11 @@
     justify-content: center;
     align-items: center;
 }
+#row6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .card {
     background-color: #000000;
     color: #FFFFFF;
@@ -41,4 +46,8 @@
 #id{
     text-align: center;
     align-items: center;
+}
+#lol{
+    align-items:center;
+    text-align: center;
 }
